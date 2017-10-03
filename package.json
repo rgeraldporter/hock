@@ -20,7 +20,7 @@
   ],
   "devDependencies": {
     "mocha": "^2.1.0",
-    "request": "2.20.x",
+    "request": "2.83.0",
     "should": "^5.0.1",
     "should-http": "0.0.2"
   },
